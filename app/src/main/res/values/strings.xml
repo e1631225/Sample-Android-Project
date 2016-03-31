@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">InfolineTestApplication</string>
+    <string name="loginFailedMessage">Invalid username or password</string>
+    <string name="addItem">Add Item</string>
+    <string name="downloading">Downloading file</string>
+    <string name="downloadComplete">Download complete</string>
+    <string name="downloadFailed">Download failed!</string>
+
+</resources>
